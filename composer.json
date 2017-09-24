@@ -40,6 +40,6 @@
         }
     },
     "extra":{
-        "bootstrap": "lexsurkov\\remotegis\\Bootstrap",
+        "bootstrap": "lexsurkov\\remotegis\\Bootstrap"
     }
 }
