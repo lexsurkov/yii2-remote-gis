@@ -34,16 +34,12 @@
         "codeception/verify": "~0.3.1",
         "codeception/specify": "~0.4.3"
     },
-    {
-        "autoload": {
-            "psr-4": {
-                "lexsurkov\\remotegis\\":""
-            }
+    "autoload": {
+        "psr-4": {
+            "lexsurkov\\remotegis\\":""
         }
     },
-    {
-        "extra":{
-            "bootstrap": "lexsurkov\\remotegis\\Bootstrap",
-        }
+    "extra":{
+        "bootstrap": "lexsurkov\\remotegis\\Bootstrap",
     }
 }
